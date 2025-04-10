@@ -1,0 +1,500 @@
+   44  make
+   45  bin/test-hw -v 2
+   46  make clean 
+   47  make
+   48  bin/test-hw -v 2
+   49  clear
+   50  make clean 
+   51  make
+   52  bin/test-hw -v 2
+   53  make clean 
+   54  make
+   55  bin/test-hw -v 2
+   56  make cleamn 
+   57  clear
+   58  make clean 
+   59  make
+   60  bin/test-hw -v 2
+   61  make clean 
+   62  make
+   63  bin/test-hw -v 2
+   64  make clean 
+   65  make
+   66  bin/test-hw -v 2
+   67  bin/test-hw -v 0
+   68  bin/test-hw -v 1
+   69  bin/test-hw -v 2
+   70  make clean make clean 
+   71  make
+   72  bin/test-hw -v 2
+   73  make clean 
+   74  make
+   75  bin/test-hw -v 2
+   76  make clean 
+   77  make
+   78  bin/test-hw -v 2
+   79  make clean 
+   80  make
+   81  bin/test-hw -v 2
+   82  make clean 
+   83  make
+   84  bin/test-hw -v 2
+   85  make clean 
+   86  make
+   87  bin/test-hw -v 2
+   88  make cleanm
+   89  make clean 
+   90  mak
+   91  make
+   92  bin/test-hw -v 2
+   93  make clean 
+   94  make
+   95  bin/test-hw -v 2
+   96  make clean
+   97  make
+   98  bin/test-hw -v 2
+   99  make clean
+  100  make
+  101  bin/test-hw -v 2
+  102  make cleanm
+  103  make clean 
+  104  make
+  105  bin/test-hw -v 2
+  106  make clean
+  107  make 
+  108  bin/test-hw -v 2
+  109  make clean
+  110  make
+  111  make clean 
+  112  make
+  113  bin/test-hw -v 2
+  114  make clean
+  115  make
+  116  bin/test-hw -v 2
+  117  make clean
+  118  make
+  119  bin/test-hw -v 2
+  120  clear
+  121  make clean
+  122  bin/test-hw -v 2
+  123  clear
+  124  make clean
+  125  make
+  126  make clean
+  127  make
+  128  bin/test-hw -v 2
+  129  make clean
+  130  make
+  131  make clean 
+  132  make
+  133  bin/test-hw -v 2
+  134  make clean 
+  135  make
+  136  make clean
+  137  make
+  138  bin/test-hw -v 2
+  139  make clean 
+  140  make
+  141  bin/test-hw -v 2
+  142  make clean 
+  143  make clean
+  144  make
+  145  make clean 
+  146  make
+  147  bin/test-hw -v 2
+  148  make clean 
+  149  make
+  150  bin/test-hw -v 2
+  151  make clean
+  152  make
+  153  bin/test-hw -v 2
+  154  make cleamn
+  155  make clean 
+  156  make
+  157  bin/test-hw -v 2
+  158  make clean 
+  159  make
+  160  bin/test-hw -v 2
+  161  make clean 
+  162  make
+  163  bin/test-hw -v 2
+  164  make clean
+  165  make
+  166  bin/test-hw -v 2
+  167  make clean
+  168  make
+  169  bin/test-hw -v 2
+  170  make clean
+  171  make
+  172  bin/test-hw -v 2
+  173  make clean 
+  174  make
+  175  bin/test-hw -v 2
+  176  make clean 
+  177  make
+  178  bin/test-hw -v 2
+  179  mke clean
+  180  make
+  181  make clean 
+  182  make
+  183  bin/test-hw -v 2
+  184  make clean
+  185  make clean 
+  186  make
+  187  bin/test-hw -v 2
+  188  make clean 
+  189  make
+  190  bin/test-hw -v 2
+  191  make clean 
+  192  make
+  193  make clea
+  194  make cleamn 
+  195  make clean 
+  196  make
+  197  bin/test-hw -v 2
+  198  make clean 
+  199  make
+  200  bin/test-hw -v 2
+  201  make clean 
+  202  make
+  203  make clean 
+  204  make
+  205  bin/test-hw -v 2
+  206  make clean 
+  207  make
+  208  bin/test-hw -v 2
+  209  make clean 
+  210  make
+  211  bin/test-hw -v 2
+  212  make clean 
+  213  make
+  214  bin/test-hw -v 2
+  215  make make clean 
+  216  make
+  217  bin/test-hw -v 2
+  218  make clean 
+  219  make
+  220  bin/test-hw -v 2
+  221  make clean 
+  222  make
+  223  make run
+  224  mkdir comp-test2
+  225  make clean
+  226  make
+  227  make
+  228  make
+  229  sudo apt-get install libcurl4-openssl-dev libcjson-dev
+  230  make clean
+  231  make
+  232  bin/test-hw -v 2
+  233  make
+  234  bin/test-hw -v 2
+  235  make clean
+  236  make
+  237  bin/test-hw -v 2
+  238  make clean
+  239  make
+  240  bin/test-hw -v 2
+  241  make clean
+  242  make
+  243  bin/test-hw -v 2
+  244  make clean
+  245  make
+  246  bin/test-hw -v 2
+  247  bin/test-hw -v 0
+  248  make clean
+  249  make
+  250  bin/test-hw -v 0
+  251  make claen
+  252  amke
+  253  make clean
+  254  make
+  255  bin/test-hw -v 0
+  256  clear
+  257  make clean
+  258  make
+  259  clear
+  260  bin/test-hw -v 0
+  261  make clean
+  262  make
+  263  bin/test-hw -v 0
+  264  clear
+  265  make clean
+  266  make
+  267  bin/test-hw -v 0
+  268  git push
+  269  make verify
+  270  make clean
+  271  make
+  272  bin/test-hw -v 0
+  273  bin/test-hw -v 2
+  274  make clean 
+  275  make
+  276  make week2
+  277  test-se
+  278  make test-se
+  279  test-hw
+  280  make test-hw
+  281  bin/test-se
+  282  bin/test-se -v 0
+  283  bin/test-se -v 2
+  284  git branch
+  285  bin/test-se -v 2
+  286  make week2
+  287  make clean
+  288  make
+  289  cler
+  290  cler
+  291  clear
+  292  make week2
+  293  make cleanm
+  294  make clean
+  295  make
+  296  clear
+  297  make week2
+  298  make 
+  299  make week2
+  300  clean
+  301  clear
+  302  make week2
+  303  clear
+  304  make clean
+  305  make
+  306  make week2
+  307  clear
+  308  make week2
+  309  make clean
+  310  make
+  311  clear
+  312  make week2
+  313  clear
+  314  make 
+  315  make week2
+  316  clear
+  317  make week2
+  318  make clean
+  319  make
+  320  make week2
+  321  cleaer
+  322  clear
+  323  make week2
+  324  make
+  325  bin/test-se -v 2
+  326  bin/test-se -v 2
+  327  bin/test-se
+  328  clear
+  329  make clean
+  330  make
+  331  bin/test-se
+  332  clearA
+  333  make clean
+  334  make
+  335  bin/test-se
+  336  make week2
+  337  clear
+  338  make week2
+  339  clear
+  340  make clean 
+  341  make
+  342  clear
+  343  make week2
+  344  clear
+  345  make clean
+  346  make
+  347  make week2
+  348  clear
+  349  make week2
+  350  make clean
+  351  make
+  352  make week2
+  353  clear
+  354  make week2
+  355  make clean
+  356  make
+  357  make week2
+  358  clear
+  359  make week2
+  360  make clean
+  361  make
+  362  bin/test-se
+  363  make clean
+  364  make
+  365  bin/test-se
+  366  make week2
+  367  make clean 
+  368  make
+  369  make clean 
+  370  make
+  371  clear
+  372  make clean
+  373  make
+  374  make clean
+  375  make
+  376  clear
+  377  make clean
+  378  make
+  379  clear
+  380  make clean
+  381  make
+  382  make clean
+  383  mak
+  384  make
+  385  make clean
+  386  make
+  387  make clean
+  388  make
+  389  make clean
+  390  mak
+  391  e
+  392  make
+  393  make clean
+  394  make
+  395  clear
+  396  bin/test-se
+  397  bin/se-test
+  398  make 
+  399  clear
+  400  bin/test-se
+  401  make bin/test-se
+  402  make clean
+  403  make
+  404  bin/test-se
+  405  make clean
+  406  clear
+  407  make week2
+  408  bin/test-se
+  409  bin/test-se
+  410  make clean
+  411  make
+  412  make week2
+  413  bin/test-se
+  414  clear
+  415  make clean
+  416  make
+  417  clear
+  418  make clean
+  419  make
+  420  bin/se-test
+  421  bin/test-se
+  422  make week2
+  423  make clean
+  424  make
+  425  make clean
+  426  make
+  427  make clean
+  428  make
+  429  clear
+  430  make
+  431  make clean
+  432  make
+  433  clear
+  434  make clean
+  435  make
+  436  make cleanm
+  437  make clean
+  438  make
+  439  make clean
+  440  make
+  441  bin/test-se
+  442  bin/test-se -v 0
+  443  bin/test-se -v 2
+  444  make clean
+  445  make
+  446  bin/test-se -v 2
+  447  make clean
+  448  make
+  449  make week2
+  450  bin/se -i testcases/basics/add
+  451  bin/se -i testcases/basics/add.s
+  452  bin/se -i testcases/basics/adds
+  453  bin/se -i testcases/basics/add
+  454  bin/test-se
+  455  bin/se -i testcases/basics/add
+  456  bin/se -i testcases/basics/add -b 2
+  457  bin/se -i testcases/basics/add -v 2
+  458  clear
+  459  bin/se -i testcases/basics/add -v 2
+  460  bin/se -ref/wk2 -i testcases/basics/add
+  461  bin/se-ref-wk2 -i testcases/basics/add -v 2
+  462  make clean
+  463  make
+  464  bin/se -i testcases/basics/add -v 2
+  465  bin/se-ref-wk2 -i testcases/basics/add -v 2
+  466  bin/se -i testcases/basics/add -v 2
+  467  make
+  468  bin/se -i testcases/basics/basic -v 2
+  469  make clean
+  470  make
+  471  bin/se -i testcases/basics/basic -v 2
+  472  make clean
+  473  make
+  474  bin/se -i testcases/basics/basic -v 2
+  475  bin/se-ref-wk2 -i testcases/basics/add -v 2
+  476  make clean
+  477  make
+  478  bin/se-ref-wk2 -i testcases/basics/add -v 2
+  479  bin/se-ref-wk2 -i testcases/basics/add -v 2
+  480  bin/se -i testcases/basics/basic -v 2
+  481  git branch
+  482  bin/se-ref-wk2 -i testcases/basics/add -v 2
+  483  bin/se-ref-wk2 -i testcases/basics -v 2
+  484  bin/se -i testcases/basics/basic
+  485  bin/se-ref-wk2 -i testcases/basics/basic -v 2
+  486  make clean
+  487  make
+  488  bin/se -i testcases/basics/basic
+  489  bin/se-ref-wk2 -i testcases/basics/basic -v 2
+  490  bin/se-ref-wk2 -i testcases/basics/basic -v 2
+  491  bin/se -i testcases/basics/basic -v 2
+  492  make clean
+  493  make
+  494  bin/se -i testcases/basics/basic -v 2
+  495  make clean
+  496  make
+  497  make clean
+  498  make
+  499  bin/se -i testcases/basics/basic -v 2
+  500  git clone https://github.com/Kavish-Muthum/mastery-version-b.git
+  501  ls
+  502  touch .gdbinit
+  503  rm .gdbinit
+  504  cd ..
+  505  touch .gdbinit
+  506  echo "set history save on"
+  507  echo "set history save on" > .gdbinit
+  508  cat .gdbinit
+  509  ls
+  510  cd master-version-b
+  511  cd mastery-version-b
+  512  make clean
+  513  make
+  514  make check
+  515  gdb 
+  516  make 
+  517  ./mini_ci
+  518  ./mini_ci testcases_basic_add.s
+  519  ./mini_ci testcases
+  520  make debug
+  521  gdb mini_ci
+  522  make clean
+  523  make debug
+  524  gdb ./mini_ci
+  525  make clean
+  526  make check
+  527  make clean
+  528  make debug
+  529  gdb ./mini_ci
+  530  make check
+  531  make clean
+  532  make debug
+  533  gdb ./mini_ci
+  534  make clean
+  535  make debug
+  536  gdb ./mini_ci_reference
+  537  y
+  538  make clean
+  539  make check
+  540  make clean
+  541  make check
+  542  history
+  543  history > shell_logs.txt

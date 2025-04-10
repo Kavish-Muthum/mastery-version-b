@@ -1,0 +1,10 @@
+   16  run testcases/multi_op_err2.s
+   17  p val_b->val
+   18  q
+   19  p val_a->val
+   20  q
+   21  run testcases/multi_op_err2.s
+   22  q
+   23  run testcases/multi_op_err2.s
+   24  q
+   25  show commands
